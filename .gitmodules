@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "polySegratioMM"]
+	path = polySegratioMM
+	url = https://github.com/petebaker/polysegratiomm
+	shallow = true
+	registered = true
