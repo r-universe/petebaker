@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cropgrowdays"]
 	path = cropgrowdays
 	url = https://gitlab.com/petebaker/cropgrowdays
-	shallow = true
-	registered = true
 [submodule "polySegratio"]
 	path = polySegratio
 	url = https://github.com/petebaker/polysegratio
-	shallow = true
-	registered = true
 [submodule "polySegratioMM"]
 	path = polySegratioMM
 	url = https://github.com/petebaker/polysegratiomm
-	shallow = true
-	registered = true
